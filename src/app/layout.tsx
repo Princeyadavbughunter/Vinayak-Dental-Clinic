@@ -8,9 +8,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Vinayak Dental Clinic | Best Dentist in Bilaspur, Chhattisgarh | Braces & Aligners",
-  description: "Dr. Rahul Singh - Teeth & Mouth Specialist with 16+ years experience. Advanced dental braces, aligners, and implants in Bilaspur. Contact: 9244966707",
-  keywords: "dentist Bilaspur, dental clinic Bilaspur, Dr. Rahul Singh, dental braces, aligners, dental implants, root canal treatment, best dentist Bilaspur",
+  title: "Vinayak Dental Clinic | Best Dentist in Bilaspur, Chhattisgarh | Dental Braces & Aligners",
+  description: "Dr. Rahul Singh - Teeth & Mouth Specialist with 16+ years experience. Advanced Dental Braces & Aligners in Bilaspur. Contact: 9244966707",
+  keywords: "dentist Bilaspur, dental clinic Bilaspur, Dr. Rahul Singh, dental braces, aligners, dental braces & aligners, root canal treatment, best dentist Bilaspur",
   authors: [{ name: "Dr. Rahul Singh" }],
   creator: "Vinayak Dental Clinic",
   publisher: "Vinayak Dental Clinic",
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: "Vinayak Dental Clinic | Best Dentist in Bilaspur",
-    description: "Dr. Rahul Singh - 16+ years experience. Expert in Braces, Aligners & Implants. Located at Imlipara Main Road, Bilaspur.",
+    description: "Dr. Rahul Singh - 16+ years experience. Expert in Dental Braces & Aligners. Located at Imlipara Main Road, Bilaspur.",
     url: 'https://vinayakdentalclinic.com/',
     siteName: "Vinayak Dental Clinic",
     images: [
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: "Vinayak Dental Clinic",
-    description: "Advanced dental care by Dr. Rahul Singh in Bilaspur. Braces, Aligners & Implants.",
+    description: "Advanced dental care by Dr. Rahul Singh in Bilaspur. Dental Braces & Aligners.",
     images: ['/og-image.jpg'],
   },
   robots: {

@@ -33,7 +33,7 @@ export default function DoctorProfile({ onBookAppointment }: DoctorProfileProps)
 
             <p className="md:text-lg">
               <strong>16+ years of clinical experience.</strong>
-              In the realm of dental care, my expertise lies in three key areas. First and foremost is my proficiency in Orthodontic Treatment, where I specialize in crafting beautiful and healthy smiles for my patients. Second, I have extensive experience in Dental Implants, offering cutting-edge solutions for restoring dental functionality. Lastly, I excel in Advanced Root Canal Treatment, employing state-of-the-art 3D obturation technology to ensure precision and optimal outcomes.
+              In the realm of dental care, my expertise lies in three key areas. First and foremost is my proficiency in Orthodontic Treatment, where I specialize in crafting beautiful and healthy smiles for my patients. Second, I have extensive experience in Dental Braces & Aligners, offering cutting-edge solutions for teeth alignment. Lastly, I excel in Advanced Root Canal Treatment, employing state-of-the-art 3D obturation technology to ensure precision and optimal outcomes.
             </p>
 
             <div className="md:grid md:grid-cols-2 md:gap-8 mt-6">
@@ -46,7 +46,7 @@ export default function DoctorProfile({ onBookAppointment }: DoctorProfileProps)
                 <p className="mb-2">We invest in the latest dental technologies and equipment to ensure that your treatment is efficient, comfortable, and effective. From digital X-rays to advanced sterilization techniques, we prioritize your safety and comfort.</p>
 
                 <h4 className="font-bold text-gray-800 mb-2">Comprehensive Care</h4>
-                <p>We offer a full spectrum of dental services, from preventive care to advanced treatments like implants and orthodontics. Our multi-specialty approach ensures that all your dental needs are met under one roof.</p>
+                <p>We offer a full spectrum of dental services, from preventive care to advanced treatments like Dental Braces & Aligners. Our multi-specialty approach ensures that all your dental needs are met under one roof.</p>
               </div>
 
               <div>
@@ -63,7 +63,7 @@ export default function DoctorProfile({ onBookAppointment }: DoctorProfileProps)
                 <h3 className="font-bold text-[#2364a5] mb-3 md:text-lg">Specializations</h3>
                 <ul className="list-disc list-inside md:text-lg space-y-1">
                   <li>Orthodontic Treatment</li>
-                  <li>Dental Implants</li>
+                  <li>Dental Braces & Aligners</li>
                   <li>Advanced Root Canal Treatment</li>
                   <li>Teeth & Mouth Specialist</li>
                 </ul>

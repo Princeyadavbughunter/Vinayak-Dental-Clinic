@@ -81,7 +81,7 @@ export default function PopupForm({ isOpen, onClose, minutes, seconds }: PopupFo
         <div className="bg-gray-50 p-3 md:p-4 rounded-lg mb-4 border-l-4 border-[#2364a5]">
           <p className="text-sm md:text-base text-gray-700 text-center">
             <strong>Includes:</strong> Professional Consultation & Digital Scan
-            <span className="text-[#2364a5] font-bold"> with Our Certified Implantologist</span>
+            <span className="text-[#2364a5] font-bold"> with Our Certified Dental Braces & Aligner Specialist</span>
           </p>
         </div>
 

@@ -99,7 +99,7 @@ export default function HeroSection({ onBookAppointment }: HeroSectionProps) {
           </li>
           <li className="flex items-start gap-2">
             <span className="text-[#73b23d]">✔</span>
-            <span className="text-sm md:text-base">Specialist in Orthodontics & Implants</span>
+            <span className="text-sm md:text-base">Specialist in Dental Braces & Aligners</span>
           </li>
         </ul>
         <button onClick={onBookAppointment} className="bg-brandBlue text-white py-3 px-6 rounded-lg font-bold w-full hover:opacity-90 transition-colors md:max-w-md md:mx-auto md:block">
