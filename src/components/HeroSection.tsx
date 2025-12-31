@@ -17,7 +17,7 @@ export default function HeroSection({ onBookAppointment }: HeroSectionProps) {
           <div className="relative rounded-lg h-48 md:h-[400px] mb-6 md:mb-0 md:flex-1 overflow-hidden shadow-lg bg-black">
             <iframe
               className="w-full h-full object-cover rounded-lg"
-              src="https://www.youtube.com/embed/yorYun4OvCo"
+              src="https://www.youtube.com/embed/h6QcqqguqgQ?si=VrJWaxNZTqPHn4cU"
               title="Vinayak Dental Clinic Video"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen
@@ -52,7 +52,7 @@ export default function HeroSection({ onBookAppointment }: HeroSectionProps) {
           📞 Book Consultation
         </button>
         <a
-          href="tel:+919244966707"
+          href="tel:+919039730707"
           className="bg-brandBlue text-white py-4 px-8 rounded-lg font-bold text-lg text-center hover:opacity-90 transition-colors md:min-w-[240px]"
         >
           CALL NOW ☏
@@ -70,7 +70,7 @@ export default function HeroSection({ onBookAppointment }: HeroSectionProps) {
             { icon: "/images/heroicons/Experience.png", title: "16+ Years Experience", desc: "Trusted dental care since 2011" },
             { icon: "/images/heroicons/premium.png", title: "High Quality", desc: "Advanced treatment standards" },
             { icon: "/images/heroicons/team.png", title: "Expert Team", desc: "Dr. Rahul Singh" },
-            { icon: "/images/heroicons/sterilization.png", title: "Intra Oral 3D Scanner", desc: "Latest Technology" },
+            { icon: "/images/heroicons/Untitled.jpeg", title: "Intra Oral 3D Scanner", desc: "Latest Technology" },
             { icon: "/images/heroicons/tech.png", title: "Advanced Technology", desc: "Digital Dentistry" }
           ].map((usp, index) => (
             <div key={index} className="text-center bg-white p-4 rounded-lg shadow-sm hover:shadow-md transition-shadow md:p-6">
@@ -93,10 +93,7 @@ export default function HeroSection({ onBookAppointment }: HeroSectionProps) {
             <span className="text-[#73b23d]">✔</span>
             <span className="text-sm md:text-base">Advanced & High-Quality Treatment Standards</span>
           </li>
-          <li className="flex items-start gap-2">
-            <span className="text-[#73b23d]">✔</span>
-            <span className="text-sm md:text-base">Intra Oral 3D Scanner Technology</span>
-          </li>
+
           <li className="flex items-start gap-2">
             <span className="text-[#73b23d]">✔</span>
             <span className="text-sm md:text-base">Specialist in Dental Braces & Aligners</span>

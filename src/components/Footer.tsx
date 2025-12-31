@@ -18,8 +18,7 @@ export default function Footer() {
         <div className="grid md:grid-cols-3 gap-8 text-center md:text-left mb-8">
           <div>
             <h3 className="font-bold text-[#2364a5] mb-2 md:text-lg">Contact Us</h3>
-            <a href="tel:+919244966707" className="block text-[#2364a5] font-bold md:text-lg hover:text-black transition-colors">Primary: 9244966707</a>
-            <a href="tel:+919039730707" className="block text-[#2364a5] font-bold md:text-lg hover:text-black transition-colors">Alt: 9039730707</a>
+            <a href="tel:+919039730707" className="block text-[#2364a5] font-bold md:text-lg hover:text-black transition-colors">Call: 9039730707</a>
             <p className="text-gray-700">vinayakdentalhelp@gmail.com</p>
           </div>
 

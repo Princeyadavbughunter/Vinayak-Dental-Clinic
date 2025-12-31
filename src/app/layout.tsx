@@ -9,7 +9,7 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: "Vinayak Dental Clinic | Best Dentist in Bilaspur, Chhattisgarh | Dental Braces & Aligners",
-  description: "Dr. Rahul Singh - Teeth & Mouth Specialist with 16+ years experience. Advanced Dental Braces & Aligners in Bilaspur. Contact: 9244966707",
+  description: "Dr. Rahul Singh - Teeth & Mouth Specialist with 16+ years experience. Advanced Dental Braces & Aligners in Bilaspur. Contact: 9039730707",
   keywords: "dentist Bilaspur, dental clinic Bilaspur, Dr. Rahul Singh, dental braces, aligners, dental braces & aligners, root canal treatment, best dentist Bilaspur",
   authors: [{ name: "Dr. Rahul Singh" }],
   creator: "Vinayak Dental Clinic",

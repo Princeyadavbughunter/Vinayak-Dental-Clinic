@@ -31,7 +31,7 @@ export default function Header({ onBookAppointment }: HeaderProps) {
           <button onClick={onBookAppointment} className="bg-brandBlue text-white px-6 py-3 rounded-lg font-bold hover:opacity-90 transition-colors">
             BOOK APPOINTMENT
           </button>
-          <a href="tel:+919244966707" className="bg-brandBlue text-white px-6 py-3 rounded-lg font-bold hover:opacity-90 transition-colors text-center">
+          <a href="tel:+919039730707" className="bg-brandBlue text-white px-6 py-3 rounded-lg font-bold hover:opacity-90 transition-colors text-center">
             CALL NOW ☏
           </a>
         </div>
